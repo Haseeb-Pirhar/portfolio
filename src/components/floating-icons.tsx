@@ -21,7 +21,7 @@ export const FloatingIcons = ({
         }`}
       >
         <Link
-          href="https://wa.me/923156690902"
+          href="https://wa.me/923367862574"
           target="_blank"
           rel="noopener noreferrer"
           className="flex h-12 w-12 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition hover:scale-105 hover:bg-[#1EBE5D]"
@@ -30,14 +30,14 @@ export const FloatingIcons = ({
         </Link>
 
         <Link
-          href="mailto:afifurrahman444@gmail.com"
+          href="mailto:haseebpirhar@gmail.com"
           className="flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-lg ring-1 ring-black/5 transition hover:scale-105 hover:bg-gray-50"
         >
           <GmailIcon size={24} />
         </Link>
 
         <Link
-          href="https://www.linkedin.com/in/afif-ur-rahman786/"
+          href="https://www.linkedin.com/in/haseeb-khan-583323325"
           target="_blank"
           rel="noopener noreferrer"
           className="flex h-12 w-12 items-center justify-center rounded-full bg-[#0077B5] text-white shadow-lg transition hover:scale-105 hover:bg-[#005e93]"
@@ -46,7 +46,7 @@ export const FloatingIcons = ({
         </Link>
 
         <Link
-          href="https://github.com/afif-Ur-Rahman/"
+          href="https://github.com/Haseeb-Pirhar"
           target="_blank"
           rel="noopener noreferrer"
           className="flex h-12 w-12 items-center justify-center rounded-full bg-[#171515] text-white shadow-lg transition hover:scale-105 hover:bg-black"

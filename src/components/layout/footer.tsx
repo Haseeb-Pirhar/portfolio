@@ -19,7 +19,7 @@ export const Footer = () => {
         <div className="grid gap-12 md:grid-cols-[1.3fr_0.8fr_1.3fr]">
           <div>
             <span className="text-2xl font-bold text-white">
-              <span className="text-[#DAB025]">Afif</span> Ur Rahman
+              <span className="text-[#DAB025]">Haseeb</span> Ur Rehman
             </span>
             <p className="mt-4 max-w-sm leading-relaxed text-white/75">
               Full-stack developer passionate about crafting modern, scalable, and user-friendly web
@@ -52,11 +52,11 @@ export const Footer = () => {
             <ul className="mt-4 space-y-4">
               <li>
                 <a
-                  href="mailto:afifurrahman444@gmail.com"
+                  href="mailto:haseebpirhar@gmail.com"
                   className="flex items-start gap-3 font-medium text-white/85 transition-colors hover:text-[#F2C078] hover:underline"
                 >
                   <Mail className="h-5 w-5 shrink-0" strokeWidth={1.6} />
-                  <span>afifurrahman444@gmail.com</span>
+                  <span>haseebpirhar@gmail.com</span>
                 </a>
               </li>
               <li className="flex items-start gap-3 font-medium text-white/85">
@@ -65,7 +65,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-4 pt-2">
                 <a
-                  href="https://www.linkedin.com/in/afif-ur-rahman786/"
+                  href="https://www.linkedin.com/in/haseeb-khan-583323325"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/85 transition hover:text-[#F2C078]"
@@ -73,7 +73,7 @@ export const Footer = () => {
                   <FaLinkedin size={22} />
                 </a>
                 <a
-                  href="https://github.com/afif-Ur-Rahman/"
+                  href="https://github.com/Haseeb-Pirhar"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/85 transition hover:text-[#F2C078]"
@@ -81,7 +81,7 @@ export const Footer = () => {
                   <FaGithub size={22} />
                 </a>
                 <a
-                  href="https://wa.me/923156690902"
+                  href="https://wa.me/923367862574"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/85 transition hover:text-[#25D366]"
