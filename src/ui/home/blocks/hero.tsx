@@ -28,8 +28,8 @@ export const Hero = () => {
             {isLoading && <Skeleton loaderClassName="h-10 w-10 sm:h-12 sm:w-12" />}
 
             <Image
-              src="/images/profile.jpg"
-              alt="Afif Ur Rahman"
+              src="/og-image.jpeg"
+              alt="Haseeb Ur Rehman"
               fill
               sizes="(max-width: 1024px) 320px, 384px"
               className={`object-cover transition-opacity duration-500 ${
@@ -47,7 +47,7 @@ export const Hero = () => {
 
         <div className="flex flex-2 flex-col items-center text-center lg:items-start lg:text-left">
           <span className="mb-4 inline-block rounded-full bg-[#DAB025]/10 px-4 py-2 text-sm font-semibold tracking-wider text-[#DAB025] uppercase">
-            Hi, I&apos;m Afif Ur Rahman
+            Hi, I&apos;m Haseeb Ur Rehman
           </span>
 
           <h1 className="max-w-xl text-4xl leading-tight font-bold text-white">
@@ -58,8 +58,6 @@ export const Hero = () => {
                   "Full-Stack Web Apps",
                   1500,
                   "MERN stack Projects",
-                  1500,
-                  "Next.js Applications",
                   1500,
                   "Scalable REST APIs",
                   1500,
@@ -91,7 +89,7 @@ export const Hero = () => {
             </Link>
 
             <a
-              href="/assets/Fullstack-Afif-Ur-Rahman.pdf"
+              href="/assets/MernStack Haseeb.pdf"
               download
               className="rounded-md border border-[#DAB025]/60 px-8 py-3 font-semibold text-[#DAB025] transition hover:border-[#DAB025] hover:bg-[#DAB025]/10 hover:text-[#E8C84A]"
             >

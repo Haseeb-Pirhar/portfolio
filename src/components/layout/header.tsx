@@ -10,7 +10,7 @@ import { HOME_MENU, PROJECTS_MENU } from "./constants";
 import { MobileSidebar } from "./sidebar";
 
 export const Header = ({
-  title = "Afif Ur Rahman",
+  title = "Haseeb Ur Rehman",
   page = "home",
 }: {
   title?: string;
@@ -151,7 +151,7 @@ export const Header = ({
         {isHome && (
           <div className="hidden lg:block">
             <a
-              href="/assets/Fullstack-Afif-Ur-Rahman.pdf"
+              href="/assets/MernStack Haseeb.pdf"
               download
               className="inline-flex items-center gap-2 rounded-md border border-[#DAB025]/60 bg-transparent px-5 py-2.5 text-sm font-semibold text-[#DAB025] transition-all duration-300 hover:border-[#DAB025] hover:bg-[#DAB025]/10 hover:text-[#E8C84A]"
             >

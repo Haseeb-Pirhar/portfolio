@@ -17,8 +17,8 @@ export const Skills = () => {
 
           <p className="text-lg leading-8 text-gray-600">
             <span className="font-semibold text-[#003B73]">Tools</span> and technologies I use to
-            build reliable, full‑stack applications — from crafting intuitive user interfaces and
-            responsive layouts to designing scalable backend systems,{" "}
+            build reliable, full‑stack web applications — from crafting intuitive user interfaces
+            and responsive layouts to designing scalable backend systems,{" "}
             <span className="font-semibold text-[#003B73]">APIs</span>, and databases.{" "}
             <span className="font-semibold text-[#003B73]">My</span> stack emphasizes clean
             architecture, performance, and maintainability, ensuring every project is

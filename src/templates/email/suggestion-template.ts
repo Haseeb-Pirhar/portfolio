@@ -9,7 +9,7 @@ interface SuggestionAlertTemplateOptions {
 }
 
 export const suggestionAlertTemplate = (options: SuggestionAlertTemplateOptions) => {
-  const { name = "Anonymous", message, brandName = "Afif Ur Rahman — Portfolio" } = options;
+  const { name = "Anonymous", message, brandName = "Haseeb Ur Rehman — Portfolio" } = options;
 
   const safeName = sanitize(name);
   const safeMessage = sanitize(message).replace(/\n/g, "<br>");

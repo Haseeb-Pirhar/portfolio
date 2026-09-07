@@ -8,11 +8,11 @@ import type { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "Afif Ur Rahman - Full-Stack Developer",
+    title: "Haseeb Ur Rehman - Full-Stack Developer",
     description:
       "Full-stack developer specializing in Next.js, React, TypeScript, and Node.js. Building scalable web apps with MongoDB, Tailwind CSS, and modern tooling.",
     keywords: [
-      "Afif Ur Rahman",
+      "Haseeb Ur Rehman",
       "Full-Stack Developer",
       "Next.js Developer",
       "React Developer",
@@ -23,17 +23,17 @@ export async function generateMetadata(): Promise<Metadata> {
       "Frontend Developer",
       "Backend Developer",
     ],
-    authors: [{ name: "Afif Ur Rahman" }],
-    creator: "Afif Ur Rahman",
+    authors: [{ name: "Haseeb Ur Rehman" }],
+    creator: "Haseeb Ur Rehman",
     metadataBase: new URL("https://afif-ur-rahman.vercel.app/"),
     openGraph: {
-      title: "Afif Ur Rahman - Full-Stack Developer",
+      title: "Haseeb Ur Rehman - Full-Stack Developer",
       description: "Full-stack developer specializing in Next.js, React, TypeScript, and Node.js.",
       url: "https://afif-ur-rahman.vercel.app/",
-      siteName: "Afif Ur Rahman",
+      siteName: "Haseeb Ur Rehman",
       images: [
         {
-          url: "/og-image.jpg",
+          url: "/og-image.jpeg",
           width: 960,
           height: 960,
         },
@@ -43,9 +43,9 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: "Afif Ur Rahman - Full-Stack Developer",
+      title: "Haseeb Ur Rehman - Full-Stack Developer",
       description: "Full-stack developer specializing in Next.js, React, TypeScript, and Node.js.",
-      images: ["/og-image.jpg"],
+      images: ["/og-image.jpeg"],
     },
     robots: {
       index: true,

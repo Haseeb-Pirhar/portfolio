@@ -22,9 +22,9 @@ import {
 } from "react-icons/si";
 
 export const COUNTS = [
-  { value: 3, suffix: "+", label: "Years Coding" },
-  { value: 8, suffix: "+", label: "Projects Built" },
-  { value: 10, suffix: "+", label: "Technologies" },
+  { value: 2, suffix: "+", label: "Years Coding" },
+  { value: 6, suffix: "+", label: "Projects Built" },
+  { value: 7, suffix: "+", label: "Technologies" },
   { value: 100, suffix: "%", label: "Commitment" },
 ];
 
@@ -32,7 +32,7 @@ export const QUICK_FACTS = [
   { label: "Location", value: "Lahore, Pakistan", icon: MapPin },
   {
     label: "Education",
-    value: "BS Information Technology",
+    value: "BS Computer Science",
     icon: GraduationCap,
   },
   { label: "Experience", value: "3+ Years", icon: Briefcase },
@@ -47,7 +47,6 @@ export const TECH_ICONS = [
   { name: "Node.js", icon: SiNodedotjs, color: "#5FA04E" },
   { name: "Express", icon: SiExpress, color: "#000000" },
   { name: "MongoDB", icon: SiMongodb, color: "#47A248" },
-  { name: "Zod", icon: SiZod, color: "#3E67B1" },
   { name: "Radix UI", icon: SiRadixui, color: "#161618" },
   { name: "Zustand", icon: Layers, color: "#603A20" },
   { name: "React Hook Form", icon: SiReacthookform, color: "#EC5990" },
@@ -87,7 +86,6 @@ export const SKILL_GROUPS: { title: string; items: SkillItem[] }[] = [
     items: [
       { name: "Zustand", icon: Layers, color: "#603A20" },
       { name: "React Hook Form", icon: SiReacthookform, color: "#EC5990" },
-      { name: "Zod", icon: SiZod, color: "#3E67B1" },
     ],
   },
   {
@@ -113,7 +111,6 @@ export const SKILL_GROUPS: { title: string; items: SkillItem[] }[] = [
     items: [
       { name: "Git", icon: SiGit, color: "#F05032" },
       { name: "GitHub", icon: SiGithub, color: "#181717" },
-      { name: "ESLint", icon: SiEslint, color: "#4B32C3" },
       { name: "Postman", icon: SiPostman, color: "#FF6C37" },
     ],
   },

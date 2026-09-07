@@ -94,7 +94,7 @@ export const Footer = () => {
         </div>
 
         <div className="mt-4 w-full border-t-2 border-white/15 py-6 text-center text-sm text-white/60">
-          © {new Date().getFullYear()} Afif Ur Rahman. All rights reserved.
+          © {new Date().getFullYear()} Haseeb Ur Rehman. All rights reserved.
         </div>
       </div>
     </footer>
